@@ -457,10 +457,9 @@ caption {
     font-size: 1.25rem;
     line-height: 1.6;
 }
-.patterns-list li + li {
+.patterns-list li {
     margin-top: 1rem;
-    padding-top: 1rem;
-    border-top: 2px solid;
+    text-decoration: underline;
 }
 .patterns-list a {
     border: 0;
